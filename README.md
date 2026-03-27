@@ -1,9 +1,3 @@
-Below is an **updated README.md** section with **production-level improvements added** while keeping your original structure intact.
-
-You can directly replace your README with this version.
-
----
-
 # Observability Alerting System (Spring Boot + PostgreSQL)
 
 ## Overview
